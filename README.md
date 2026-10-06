@@ -1,2 +1,2 @@
 # About me
-my name is felix 
+My name is Felix, and I'm a student.
